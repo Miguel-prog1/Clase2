@@ -8,7 +8,7 @@ namespace Clase2
 {
     class Actividad4
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Biblioteca bi = new Biblioteca();
             bi.ubicacion = " lugano";
